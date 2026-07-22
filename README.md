@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/pranjalthakur294-arch/DSA/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/pranjalthakur294-arch/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/pranjalthakur294-arch/DSA/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/pranjalthakur294-arch/DSA/tree/master/0141-linked-list-cycle) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/pranjalthakur294-arch/DSA/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/pranjalthakur294-arch/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/pranjalthakur294-arch/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/pranjalthakur294-arch/DSA/tree/master/0234-palindrome-linked-list) |
@@ -48,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/pranjalthakur294-arch/DSA/tree/master/0234-palindrome-linked-list) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/pranjalthakur294-arch/DSA/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
