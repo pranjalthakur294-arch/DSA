@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/pranjalthakur294-arch/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0496-next-greater-element-i](https://github.com/pranjalthakur294-arch/DSA/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/pranjalthakur294-arch/DSA/tree/master/0540-single-element-in-a-sorted-array) |
+| [0746-min-cost-climbing-stairs](https://github.com/pranjalthakur294-arch/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/pranjalthakur294-arch/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0912-sort-an-array](https://github.com/pranjalthakur294-arch/DSA/tree/master/0912-sort-an-array) |
 ## Binary Search
@@ -171,4 +172,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/pranjalthakur294-arch/DSA/tree/master/0912-sort-an-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0746-min-cost-climbing-stairs](https://github.com/pranjalthakur294-arch/DSA/tree/master/0746-min-cost-climbing-stairs) |
 <!---LeetCode Topics End-->
