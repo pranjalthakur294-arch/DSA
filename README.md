@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/pranjalthakur294-arch/DSA/tree/master/0020-valid-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/pranjalthakur294-arch/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [1143-longest-common-subsequence](https://github.com/pranjalthakur294-arch/DSA/tree/master/1143-longest-common-subsequence) |
 ## Counting
 |  |
 | ------- |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/pranjalthakur294-arch/DSA/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/pranjalthakur294-arch/DSA/tree/master/0518-coin-change-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/pranjalthakur294-arch/DSA/tree/master/0746-min-cost-climbing-stairs) |
+| [1143-longest-common-subsequence](https://github.com/pranjalthakur294-arch/DSA/tree/master/1143-longest-common-subsequence) |
 ## Memoization
 |  |
 | ------- |
@@ -208,4 +210,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/pranjalthakur294-arch/DSA/tree/master/0300-longest-increasing-subsequence) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/pranjalthakur294-arch/DSA/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
