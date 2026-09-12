@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/pranjalthakur294-arch/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/pranjalthakur294-arch/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/pranjalthakur294-arch/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1971-find-if-path-exists-in-graph](https://github.com/pranjalthakur294-arch/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/pranjalthakur294-arch/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0322-coin-change](https://github.com/pranjalthakur294-arch/DSA/tree/master/0322-coin-change) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/pranjalthakur294-arch/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1971-find-if-path-exists-in-graph](https://github.com/pranjalthakur294-arch/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 ## String Matching
 |  |
 | ------- |
@@ -214,4 +216,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/pranjalthakur294-arch/DSA/tree/master/1143-longest-common-subsequence) |
+## Union-Find
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/pranjalthakur294-arch/DSA/tree/master/1971-find-if-path-exists-in-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/pranjalthakur294-arch/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
