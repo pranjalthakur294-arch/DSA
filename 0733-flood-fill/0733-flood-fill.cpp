@@ -1,40 +1,39 @@
 class Solution {
 public:
-    vector<vector<int>> floodFill(vector<vector<int>>& image, int sr, int sc, int color) {
-        
-        queue<pair<int,int>> q;
-        q.push({sr,sc});
+    void dfs(vector<vector<int>>& image, int row, int column, int originalColor,
+             int color) {
 
-        int m=image.size();
-        int n= image[0].size();
+        int m = image.size();
+        int n = image[0].size();
 
-        int originalColor=image[sr][sc];
-        image[sr][sc]=color;
+        image[row][column] = color;
 
-        if (originalColor==color) return image;
-        while(!q.empty()){
-            int row=q.front().first;
-        int column=q.front().second;
-        q.pop();
+        if (row - 1 >= 0 && image[row - 1][column] == originalColor) {
 
-        if(row-1>=0 && image[row-1][column]==originalColor){
-            image[row-1][column]=color;
-            q.push({row-1,column});   
+            dfs(image, row - 1, column, originalColor, color);
         }
-        if(row+1<m && image[row+1][column]==originalColor){
-            image[row+1][column]=color;
-            q.push({row+1,column});
-        }
-         if(column-1>=0 && image[row][column-1]==originalColor){
-            image[row][column-1]=color;
-            q.push({row,column-1});
-        }
-         if(column+1<n && image[row][column+1]==originalColor){
-            image[row][column+1]=color;
-            q.push({row,column+1});
-        }
+        if (row + 1 < m && image[row + 1][column] == originalColor) {
 
+            dfs(image, row + 1, column, originalColor, color);
         }
+        if (column - 1 >= 0 && image[row][column - 1] == originalColor) {
+
+            dfs(image, row, column - 1, originalColor, color);
+        }
+        if (column + 1 < n && image[row][column + 1] == originalColor) {
+
+            dfs(image, row, column + 1, originalColor, color);
+        }
+    }
+    vector<vector<int>> floodFill(vector<vector<int>>& image, int sr, int sc,
+                                  int color) {
+
+        int originalColor = image[sr][sc];
+        if (originalColor == color)
+            return image;
+
+        dfs(image, sr, sc, originalColor, color);
+
         return image;
     }
 };
