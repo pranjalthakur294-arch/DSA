@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/pranjalthakur294-arch/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/pranjalthakur294-arch/DSA/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/pranjalthakur294-arch/DSA/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/pranjalthakur294-arch/DSA/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/pranjalthakur294-arch/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/pranjalthakur294-arch/DSA/tree/master/0322-coin-change) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/pranjalthakur294-arch/DSA/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/pranjalthakur294-arch/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/pranjalthakur294-arch/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/pranjalthakur294-arch/DSA/tree/master/0200-number-of-islands) |
 | [0543-diameter-of-binary-tree](https://github.com/pranjalthakur294-arch/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/pranjalthakur294-arch/DSA/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/pranjalthakur294-arch/DSA/tree/master/0572-subtree-of-another-tree) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/pranjalthakur294-arch/DSA/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/pranjalthakur294-arch/DSA/tree/master/0102-binary-tree-level-order-traversal) |
+| [0200-number-of-islands](https://github.com/pranjalthakur294-arch/DSA/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/pranjalthakur294-arch/DSA/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/pranjalthakur294-arch/DSA/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/pranjalthakur294-arch/DSA/tree/master/0733-flood-fill) |
@@ -226,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/pranjalthakur294-arch/DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/pranjalthakur294-arch/DSA/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/pranjalthakur294-arch/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
@@ -237,5 +241,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/pranjalthakur294-arch/DSA/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/pranjalthakur294-arch/DSA/tree/master/0733-flood-fill) |
 <!---LeetCode Topics End-->
