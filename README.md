@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/pranjalthakur294-arch/DSA/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/pranjalthakur294-arch/DSA/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/pranjalthakur294-arch/DSA/tree/master/0540-single-element-in-a-sorted-array) |
+| [0695-max-area-of-island](https://github.com/pranjalthakur294-arch/DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/pranjalthakur294-arch/DSA/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/pranjalthakur294-arch/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/pranjalthakur294-arch/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/pranjalthakur294-arch/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/pranjalthakur294-arch/DSA/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/pranjalthakur294-arch/DSA/tree/master/0572-subtree-of-another-tree) |
+| [0695-max-area-of-island](https://github.com/pranjalthakur294-arch/DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/pranjalthakur294-arch/DSA/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/pranjalthakur294-arch/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0841-keys-and-rooms](https://github.com/pranjalthakur294-arch/DSA/tree/master/0841-keys-and-rooms) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/pranjalthakur294-arch/DSA/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/pranjalthakur294-arch/DSA/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/pranjalthakur294-arch/DSA/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/pranjalthakur294-arch/DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/pranjalthakur294-arch/DSA/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/pranjalthakur294-arch/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0841-keys-and-rooms](https://github.com/pranjalthakur294-arch/DSA/tree/master/0841-keys-and-rooms) |
@@ -231,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/pranjalthakur294-arch/DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/pranjalthakur294-arch/DSA/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/pranjalthakur294-arch/DSA/tree/master/0695-max-area-of-island) |
 | [1971-find-if-path-exists-in-graph](https://github.com/pranjalthakur294-arch/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
@@ -242,5 +246,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/pranjalthakur294-arch/DSA/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/pranjalthakur294-arch/DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/pranjalthakur294-arch/DSA/tree/master/0733-flood-fill) |
 <!---LeetCode Topics End-->
