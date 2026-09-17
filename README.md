@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/pranjalthakur294-arch/DSA/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/pranjalthakur294-arch/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/pranjalthakur294-arch/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/pranjalthakur294-arch/DSA/tree/master/0387-first-unique-character-in-a-string) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/pranjalthakur294-arch/DSA/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/pranjalthakur294-arch/DSA/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/pranjalthakur294-arch/DSA/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/pranjalthakur294-arch/DSA/tree/master/0070-climbing-stairs) |
 ## Design
 |  |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/pranjalthakur294-arch/DSA/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/pranjalthakur294-arch/DSA/tree/master/0020-valid-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/pranjalthakur294-arch/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [1143-longest-common-subsequence](https://github.com/pranjalthakur294-arch/DSA/tree/master/1143-longest-common-subsequence) |
