@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/pranjalthakur294-arch/DSA/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/pranjalthakur294-arch/DSA/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/pranjalthakur294-arch/DSA/tree/master/0540-single-element-in-a-sorted-array) |
+| [0643-maximum-average-subarray-i](https://github.com/pranjalthakur294-arch/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0695-max-area-of-island](https://github.com/pranjalthakur294-arch/DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/pranjalthakur294-arch/DSA/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/pranjalthakur294-arch/DSA/tree/master/0746-min-cost-climbing-stairs) |
@@ -252,4 +253,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/pranjalthakur294-arch/DSA/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/pranjalthakur294-arch/DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/pranjalthakur294-arch/DSA/tree/master/0733-flood-fill) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/pranjalthakur294-arch/DSA/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
