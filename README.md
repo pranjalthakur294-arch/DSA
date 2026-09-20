@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/pranjalthakur294-arch/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/pranjalthakur294-arch/DSA/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/pranjalthakur294-arch/DSA/tree/master/0200-number-of-islands) |
+| [0209-minimum-size-subarray-sum](https://github.com/pranjalthakur294-arch/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/pranjalthakur294-arch/DSA/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/pranjalthakur294-arch/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/pranjalthakur294-arch/DSA/tree/master/0322-coin-change) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/pranjalthakur294-arch/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/pranjalthakur294-arch/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/pranjalthakur294-arch/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/pranjalthakur294-arch/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/pranjalthakur294-arch/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -256,5 +258,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/pranjalthakur294-arch/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/pranjalthakur294-arch/DSA/tree/master/0643-maximum-average-subarray-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/pranjalthakur294-arch/DSA/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
