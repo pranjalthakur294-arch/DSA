@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/pranjalthakur294-arch/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/pranjalthakur294-arch/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/pranjalthakur294-arch/DSA/tree/master/0234-palindrome-linked-list) |
+| [0567-permutation-in-string](https://github.com/pranjalthakur294-arch/DSA/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/pranjalthakur294-arch/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/pranjalthakur294-arch/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/pranjalthakur294-arch/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/pranjalthakur294-arch/DSA/tree/master/0496-next-greater-element-i) |
+| [0567-permutation-in-string](https://github.com/pranjalthakur294-arch/DSA/tree/master/0567-permutation-in-string) |
 ## Stack
 |  |
 | ------- |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/pranjalthakur294-arch/DSA/tree/master/0020-valid-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/pranjalthakur294-arch/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/pranjalthakur294-arch/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/pranjalthakur294-arch/DSA/tree/master/0567-permutation-in-string) |
 | [1143-longest-common-subsequence](https://github.com/pranjalthakur294-arch/DSA/tree/master/1143-longest-common-subsequence) |
 ## Counting
 |  |
@@ -265,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/pranjalthakur294-arch/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/pranjalthakur294-arch/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/pranjalthakur294-arch/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/pranjalthakur294-arch/DSA/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/pranjalthakur294-arch/DSA/tree/master/0643-maximum-average-subarray-i) |
 ## Prefix Sum
 |  |
